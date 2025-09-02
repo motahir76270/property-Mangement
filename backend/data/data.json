@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Shop in MI Road",
+    "type": "SHED",
+    "location": "MI Road, Jaipur",
+    "price": 23525,
+    "description": "Ready‑to‑move shop, carpet area 110 sq.ft, semi‑furnished, prime location on MI Road."
+  },
+  {
+    "name": "Shop in Bapu Nagar (ARG Maharani Apartment)",
+    "type": "PLOT STORE",
+    "location": "Bapu Nagar, Jaipur",
+    "price": 32535,
+    "description": "Furnished shop in D grade A building, 1217 sq.ft carpet area, assured 10% p.a. returns."
+  },
+  {
+    "name": "Capital Galleria Shop",
+    "type": "Retailer Store",
+    "location": "Vaishali Nagar, Jaipur",
+    "price": 235235,
+    "description": "Unfurnished shop in Capital Galleria commercial complex, super area 204 sq.ft."
+  },
+  {
+    "name": "Chaura Rasta Shop",
+    "type": "PLOT",
+    "location": "Chaura Rasta, Jaipur",
+    "price": 32523,
+    "description": "Furnished heritage‑market shop, carpet area 200 sq.ft, ready to move."
+  },
+  {
+    "name": "Central Spine Shop",
+    "type": "SHED",
+    "location": "Central Spine, Jaipur",
+    "price": 23525,
+    "description": "Furnished shop, carpet area 207 sq.ft, ready to move, aged 15–20 years."
+  },
+  {
+    "name": "Vaishali Nagar Shop (new construction)",
+    "type": "PLOT",
+    "location": "Vaishali Nagar, Jaipur",
+    "price": 235235,
+    "description": "Unfurnished new‑construction shop, carpet area 169 sq.ft."
+  },
+  {
+    "name": "Mansarovar Shop",
+    "type": "PLOT STORE",
+    "location": "Mansarovar, Jaipur",
+    "price": 32535,
+    "description": "Unfurnished shop, super area ~56 sq.yd (~504 sq.ft), ready to move."
+  },
+  {
+    "name": "Kalwar Road Shop",
+    "type": "Retailer Store",
+    "location": "Kalwar Road, Jaipur",
+    "price": 23535,
+    "description": "Unfurnished shop, super area ~220 sq.ft, ready to move."
+  },
+  {
+    "name": "Sankalp The Rise Shop",
+    "type": "PLOT STORE",
+    "location": "Tonk Road, Jaipur",
+    "price": 325235,
+    "description": "Shop in Sankalp The Rise commercial complex, super area 171 sq.ft."
+  },
+  {
+    "name": "Chandpol Bazar Shop",
+    "type": "PLOT STORE",
+    "location": "Chandpol Bazar, Jaipur",
+    "price": 25352,
+    "description": "Unfurnished shop, super area 2000 sq.ft, ready to move."
+  },
+  {
+    "name": "nnk Phatak Shop",
+    "type": "Retailer Store",
+    "location": "Tonk Phatak, Jaipur",
+    "price": 53225,
+    "description": "Semi‑furnished shop, super area 240 sq.ft, suitable for ATM/clothes/tea stall etc."
+  },
+  {
+    "name": "ntapura Shop (Eternal Manhattan Riviera)",
+    "type": "PLOT",
+    "location": "Sitapura, Jaipur",
+    "price": 235523,
+    "description": "Unfurnished shop in new construction, carpet area 360 sq.ft, opposite Bombay Hospital."
+  },
+  {
+    "name": "ngatpura Shop (Eternal Manhattan Riviera)",
+    "type": "PLOT",
+    "location": "Jagatpura, Jaipur",
+    "price": 32523,
+    "description": "Semi‑furnished shop, carpet area 111 sq.ft, high footfall building."
+  },
+  {
+    "name": "Sector 3 Pratap Nagar Shop",
+    "type": "PLOT STORE",
+    "location": "Sector 3 Pratap Nagar, Jaipur",
+    "price": 32525,
+    "description": "Furnished shop, super area 350 sq.ft, ready to move."
+  },
+  {
+    "name": "Commercial Shop in Bhaskar Enclave (Shivdaspura)",
+    "type": "SHED",
+    "location": "Bhaskar Enclave, Shivdaspura, Jaipur",
+    "price": 235235,
+    "description": "Built‑up area 799 sq.ft (88 sq.yd), freehold, bathroom 1, south facing."
+  },
+  {
+    "name": "Commercial Shop in Jagatpura (9 sq. m)",
+    "type": "Retailer Store",
+    "location": "Jagatpura, Jaipur",
+    "price": 2355,
+    "description": "Shop of approx. 9 sq.m for sale."
+  },
+  {
+    "name": "Commercial Shop in Sanganer (165 sq. yd)",
+    "type": "PLOT",
+    "location": "Sanganer, Jaipur",
+    "price": 35232,
+    "description": "Commercial shop of 165 sq.yd for sale."
+  },
+  {
+    "name": "Commercial Shop in Mahindra SEZ (11 sq. yd)",
+    "type": "PLOT STORE",
+    "location": "Mahindra SEZ, Jaipur",
+    "price": 3525,
+    "description": "Shop of approximately 11 sq.yd available for sale."
+  },
+  {
+    "name": "Commercial Shop—88 Sq. Yds in Shivdaspura",
+    "type": "Retailer Store",
+    "location": "Shivdaspura, Jaipur",
+    "price": 32525532,
+    "description": "Repeat listing—Built‑up area 799 sq.ft, freehold, bathroom 1, south facing."
+  },
+  {
+    "name": "Shop in Vidyadhar Nagar (270 sq.ft)",
+    "type": "SHED",
+    "location": "Central Spine, Vidyadhar Nagar, Jaipur",
+    "price": 35532,
+    "description": "Semi‑furnished shop, built‑up area 270 sq.ft, amenities include lift, parking, park."
+  },
+  {
+    "name": "Shop in Vidyadhar Nagar (220 sq.ft)",
+    "type": "Retailer Store",
+    "location": "Vidyadhar Nagar, Jaipur",
+    "price": 32325,
+    "description": "Semi‑furnished shop, built‑up area 220 sq.ft, amenities include lift, parking, etc."
+  },
+  {
+    "name": "Vidyadhar Nagar Shop (750 sq.ft)",
+    "type": "SHED",
+    "location": "Vidyadhar Nagar, Jaipur",
+    "price": 450352512,
+    "description": "Fully furnished shop, built‑up area 750 sq.ft (carpet approx. 600 sq.ft)."
+  }
+]
