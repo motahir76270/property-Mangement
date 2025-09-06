@@ -7,7 +7,6 @@ var cors = require('cors')
 const dotenv = require('dotenv')
 
 dotenv.config()
-const db=process.env.MongoDbUrl;
 
 async function main() {
     try {

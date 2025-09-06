@@ -36,6 +36,7 @@ const AddList = () => {
         console.log(data)
         try {
           navigate('/')
+          alert("Add property successfully")
         } catch (error) {
           console.log("somithing went wrong")
         }

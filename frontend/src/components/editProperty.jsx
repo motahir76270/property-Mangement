@@ -39,7 +39,8 @@ const EditProperty = () => {
     const {data} = await axios.put(`http://localhost:3000/api/properties/${id}` , payload);
         console.log(data)
         try {
-          navigate('/')
+          navigate('/');
+           alert("update property successfully")
         } catch (error) {
           console.log("somithing went wrong")
         }
